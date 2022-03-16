@@ -1,6 +1,17 @@
-# Angularfront
+#  AngularFront <img src="https://img.icons8.com/color/40/000000/angularjs.png"/>
+##  💻Sobre o Projeto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+Projeto desenvolvido em frontend com angular realizando uma requisições HTTP à uma junção API em Spring. Sistema de consulta de Cancer de mama SUS.
+O programa em java busca os dados persistidos em um banco de dados físico. Toda a implementação é baseda em localhost.
+
+A integração do front é realizada através de um redirecionamento utilizando proxy. O arquivo proxy.config.js possui os parâmetros para efetuar o redirecionamento.
+
+_______________________________________________________________________________________________________
+
+Esse projeto foi desenvolvido durante o programa de pré-lançamento do bootcamp fullstack Philips DIO (www.dio.me).
+____________________________________________________________________________________________________
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5. 
 
 ## Development server
 
