@@ -9,6 +9,8 @@ A integração do front é realizada através de um redirecionamento utilizando 
 _______________________________________________________________________________________________________
 
 Esse projeto foi desenvolvido durante o programa de pré-lançamento do bootcamp fullstack Philips DIO (www.dio.me).
+
+Orientado pela Juliana Mascarenhas (https://github.com/julianazanelatto)
 ____________________________________________________________________________________________________
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5. 
